@@ -2,4 +2,4 @@
 ## Christian Parkinson presenting
 
 This is Christian's notebook from his live demonstration of
-basic Flux.jl usage.
+[Flux.jl](https://fluxml.ai/).
